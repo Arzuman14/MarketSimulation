@@ -53,12 +53,5 @@ import java.util.HashMap;
 
     }
 
-//    public static void main(String[] args) {
-//        Products products1 = new Products("Pringlce", 11, 4,1000);
-//        HashMap<String, Integer>  map = new HashMap<>();
-//        map.put("Pringlce", 11);
-//        System.out.println(map.get("Pringlce"));
-//
-//
-//    }
+
 }
