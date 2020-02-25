@@ -1,3 +1,4 @@
 # MarketSimulation
-Here you can find market simulation 
-You can find alll instructions and using hints in the code asa commnet
+This is a market simulation code. 
+You can find all instructions in the code as a comment
+.
